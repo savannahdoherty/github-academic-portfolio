@@ -38,29 +38,6 @@ In this workshop, we will create GitHub accounts, learn the terms used to build 
 (During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.)
 
 
-## GitHub Glossary
-
-Git- an open source program for tracking changes in text files (written by the author of the Linux operating system)
-repo- repository for project storage
-branch- a parallel version of a repository
-local- this is your personal computer
-remote- this is the version of a repository or branch that is hosted on a server, most likely GitHub.com
-clone- a clone is a copy of a repository that lives on your computer
-fork- a fork is a personal copy of another user's repository that lives on your account
-commit- a saved change or revision
-commit message- short, descriptive text that communicates the change the commit is introducing
-pull- fetch changes from remote and merge them
-push- send your committed changes to a remote repository on GitHub.com
-collaborator- someone with read and write access
-
-## GitHub Statistics
-
-GitHub is a company that was acquired by Microsoft that hosts git (version control) projects online.
- 
-100 million + accounts
-400 million + repositories
-More than 90% of Fortune 100 companies now use GitHub in their development workflows.
-
 ## GitHub Pages
 
 GitHub is a company that was acquired by Microsoft that hosts git (version control) projects online. GitHub created [GitHub Pages](https://pages.github.com/), a way to host static sites for free, usually hosted at https://_username_.github.io/_repository_. This means that they are providing free _hosting_, meaning the server space to hold all your files and a free _domain_, the address/URL where others can navigate to your content. 
@@ -125,7 +102,7 @@ Check the Use your GitHub Pages website checkbox
 Select the green Save changes button
 Click on the blue link to open your site in a new tab in your browser
 
-
+# CONGRATULATIONS!
 
 ### Editing Code
 >Some file extensions you will want to know are: 
@@ -160,4 +137,28 @@ Click on the blue link to open your site in a new tab in your browser
 1. Rename the files on your local machine to CV.pdf for your CV and profile.jpg for your About photo
 2. You can drag-and-drop files in **Explorer**, or in the main repository
 
-# CONGRATULATIONS!
+## GitHub Glossary
+
+>- **Git**- an open source program for tracking changes in text files (written by the author of the Linux operating system)
+>- **repo**- repository for project storage
+>- **branch**- a parallel version of a repository
+>- **local**- this is your personal computer
+>- **remote**- this is the version of a repository or branch that is hosted on a server, most likely GitHub.com
+>- **clone**- a clone is a copy of a repository that lives on your computer
+>- **fork**- a fork is a personal copy of another user's repository that lives on your account
+>- **commit**- a saved change or revision
+>- **commit message**- short, descriptive text that communicates the change the commit is introducing
+>- **pull**- fetch changes from remote and merge them
+>- **push**- send your committed changes to a remote repository on GitHub.com
+>- **collaborator**- someone with read and write access
+
+## GitHub Statistics
+
+GitHub is a company that was acquired by Microsoft that hosts git (version control) projects online.
+ 
+100 million + accounts
+400 million + repositories
+More than 90% of Fortune 100 companies now use GitHub in their development workflows.
+
+
+
