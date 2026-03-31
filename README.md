@@ -29,9 +29,9 @@ In this workshop, we will create GitHub accounts, learn the terms used to build 
 1. Navigate to https://github.com/.
 2. Click Sign up.
 3. Follow the prompts to create your personal account.
--Email
--Password (Password should be at least 15 characters OR at least 8 characters including a number and a lowercase letter.) 
--Username* (Username may only contain alphanumeric characters or single hyphens, and cannot begin or end with a hyphen. (NOTE: You will want to pick a professional username because it will be in all of your URLs))
+- Email
+- Password (Password should be at least 15 characters OR at least 8 characters including a number and a lowercase letter.) 
+- Username* (Username may only contain alphanumeric characters or single hyphens, and cannot begin or end with a hyphen. (NOTE: You will want to pick a professional username because it will be in all of your URLs))
 
 4. Create Account>
 
@@ -46,7 +46,7 @@ GitHub is a company that was acquired by Microsoft that hosts git (version contr
 
 Based on Microsoft’s Visual Studio Code, GitHub also developed [GitHub Codespaces](https://github.com/features/codespaces), a staging area that combines the functionality of a file **Explorer**, allowing you to visualize your folder structure, a code **Editor**, allowing you to make updates, a **Source Control**, allowing you to push and pull changes from your local to remote repository, and a **Terminal**, allowing you to run actions like previewing a demo of your site on a locally hosted address.
 
->Typically coders using GitHub use their favorite text editor like [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom-editor.cc/), or [Visual Studio Code](https://code.visualstudio.com/), and then use a graphical user interface (GUI) like [GitHub Desktop](https://github.com/apps/desktop) or their command-line interface (CLI) like **Terminal** to push and pull changes to their project. GitHub created Codespaces to allow you to do both of those things right in the browser without having to download software applications (so you can do all of this on your iPad if you want!) 
+> Typically coders using GitHub use their favorite text editor like [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom-editor.cc/), or [Visual Studio Code](https://code.visualstudio.com/), and then use a graphical user interface (GUI) like [GitHub Desktop](https://github.com/apps/desktop) or their command-line interface (CLI) like **Terminal** to push and pull changes to their project. GitHub created Codespaces to allow you to do both of those things right in the browser without having to download software applications (so you can do all of this on your iPad if you want!) 
 
 
 ## Fork GitHub Repository
@@ -137,7 +137,7 @@ OPTIONAL: You can rename the repository for your own account
 1. Rename the files on your local machine to CV.pdf for your CV and profile.jpg for your About photo
 2. You can drag-and-drop files in **Explorer**, or in the main repository
 
-## GitHub Glossary
+## [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 >- **Git**- an open source program for tracking changes in text files (written by the author of the Linux operating system)
 >- **repo**- repository for project storage
@@ -156,9 +156,10 @@ OPTIONAL: You can rename the repository for your own account
 
 GitHub is a company that was acquired by Microsoft that hosts git (version control) projects online.
  
-100 million + accounts
-400 million + repositories
-More than 90% of Fortune 100 companies now use GitHub in their development workflows.
+- 100 million + accounts
+- 400 million + repositories
+- More than 90% of Fortune 100 companies now use GitHub in their development workflows.
+- Top Programming Languages: Python, Java, Go, JavaScript, and C++
 
 
 
